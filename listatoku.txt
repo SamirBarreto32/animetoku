@@ -411,69 +411,69 @@
 46115
 
 # --- Super Amigos Clássico ---
-#EXTINF:-1,Super Amigos Clássico EP 01
+#EXTINF:-1,Super Amigos EP 01
 47219
-#EXTINF:-1,Super Amigos Clássico EP 02
+#EXTINF:-1,Super Amigos EP 02
 47218
-#EXTINF:-1,Super Amigos Clássico EP 03
+#EXTINF:-1,Super Amigos EP 03
 47217
-#EXTINF:-1,Super Amigos Clássico EP 04
+#EXTINF:-1,Super Amigos EP 04
 47216
-#EXTINF:-1,Super Amigos Clássico EP 05
+#EXTINF:-1,Super Amigos EP 05
 47215
-#EXTINF:-1,Super Amigos Clássico EP 06
+#EXTINF:-1,Super Amigos EP 06
 47214
-#EXTINF:-1,Super Amigos Clássico EP 07
+#EXTINF:-1,Super Amigos EP 07
 47213
-#EXTINF:-1,Super Amigos Clássico EP 08
+#EXTINF:-1,Super Amigos EP 08
 47212
-#EXTINF:-1,Super Amigos Clássico EP 09
+#EXTINF:-1,Super Amigos EP 09
 47211
-#EXTINF:-1,Super Amigos Clássico EP 10
+#EXTINF:-1,Super Amigos EP 10
 47210
-#EXTINF:-1,Super Amigos Clássico EP 11
+#EXTINF:-1,Super Amigos EP 11
 47209
-#EXTINF:-1,Super Amigos Clássico EP 12
+#EXTINF:-1,Super Amigos EP 12
 47208
-#EXTINF:-1,Super Amigos Clássico EP 13
+#EXTINF:-1,Super Amigos EP 13
 47207
-#EXTINF:-1,Super Amigos Clássico EP 14
+#EXTINF:-1,Super Amigos EP 14
 47206
-#EXTINF:-1,Super Amigos Clássico EP 15
+#EXTINF:-1,Super Amigos EP 15
 47205
-#EXTINF:-1,Super Amigos Clássico EP 16
+#EXTINF:-1,Super Amigos EP 16
 47204
-#EXTINF:-1,Super Amigos Clássico EP 17
+#EXTINF:-1,Super Amigos EP 17
 47203
-#EXTINF:-1,Super Amigos Clássico EP 18
+#EXTINF:-1,Super Amigos EP 18
 47202
-#EXTINF:-1,Super Amigos Clássico EP 19
+#EXTINF:-1,Super Amigos EP 19
 47201
-#EXTINF:-1,Super Amigos Clássico EP 20
+#EXTINF:-1,Super Amigos EP 20
 47200
-#EXTINF:-1,Super Amigos Clássico EP 21
+#EXTINF:-1,Super Amigos EP 21
 47199
-#EXTINF:-1,Super Amigos Clássico EP 22
+#EXTINF:-1,Super Amigos EP 22
 47198
-#EXTINF:-1,Super Amigos Clássico EP 23
+#EXTINF:-1,Super Amigos EP 23
 47197
-#EXTINF:-1,Super Amigos Clássico EP 24
+#EXTINF:-1,Super Amigos EP 24
 47196
-#EXTINF:-1,Super Amigos Clássico EP 25
+#EXTINF:-1,Super Amigos EP 25
 47195
-#EXTINF:-1,Super Amigos Clássico EP 26
+#EXTINF:-1,Super Amigos EP 26
 47194
-#EXTINF:-1,Super Amigos Clássico EP 27
+#EXTINF:-1,Super Amigos EP 27
 47193
-#EXTINF:-1,Super Amigos Clássico EP 28
+#EXTINF:-1,Super Amigos EP 28
 47192
-#EXTINF:-1,Super Amigos Clássico EP 29
+#EXTINF:-1,Super Amigos EP 29
 47191
-#EXTINF:-1,Super Amigos Clássico EP 30
+#EXTINF:-1,Super Amigos EP 30
 47190
-#EXTINF:-1,Super Amigos Clássico EP 31
+#EXTINF:-1,Super Amigos EP 31
 47189
-#EXTINF:-1,Super Amigos Clássico EP 32
+#EXTINF:-1,Super Amigos EP 32
 47189
 
 # --- Space Ghost ---
