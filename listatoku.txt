@@ -1,107 +1,195 @@
-﻿#EXTM3U
+#EXTM3U
 
-########## Cybercops ##########
+############ Cybercops ############
 #EXTINF:-1, Cybercops EP 01
-https://animesdigital.org/video/a/53671/
+http://seu-servidor/stream/53671
 #EXTINF:-1, Cybercops EP 02
-https://animesdigital.org/video/a/53672/
+http://seu-servidor/stream/53672
 #EXTINF:-1, Cybercops EP 03
-https://animesdigital.org/video/a/53673/
+http://seu-servidor/stream/53673
 #EXTINF:-1, Cybercops EP 04
-https://animesdigital.org/video/a/53674/
+http://seu-servidor/stream/53674
 #EXTINF:-1, Cybercops EP 05
-https://animesdigital.org/video/a/53675/
+http://seu-servidor/stream/53675
 #EXTINF:-1, Cybercops EP 06
-https://animesdigital.org/video/a/53676/
+http://seu-servidor/stream/53676
 #EXTINF:-1, Cybercops EP 07
-https://animesdigital.org/video/a/53677/
+http://seu-servidor/stream/53677
 #EXTINF:-1, Cybercops EP 08
-https://animesdigital.org/video/a/53678/
+http://seu-servidor/stream/53678
 #EXTINF:-1, Cybercops EP 09
-https://animesdigital.org/video/a/53679/
+http://seu-servidor/stream/53679
 #EXTINF:-1, Cybercops EP 10
-https://animesdigital.org/video/a/53680/
+http://seu-servidor/stream/53680
+#EXTINF:-1, Cybercops EP 11
+http://seu-servidor/stream/53681
+#EXTINF:-1, Cybercops EP 12
+http://seu-servidor/stream/53682
+#EXTINF:-1, Cybercops EP 13
+http://seu-servidor/stream/53683
+#EXTINF:-1, Cybercops EP 14
+http://seu-servidor/stream/53684
+#EXTINF:-1, Cybercops EP 15
+http://seu-servidor/stream/53685
+#EXTINF:-1, Cybercops EP 16
+http://seu-servidor/stream/53686
+#EXTINF:-1, Cybercops EP 17
+http://seu-servidor/stream/53687
+#EXTINF:-1, Cybercops EP 18
+http://seu-servidor/stream/53688
+#EXTINF:-1, Cybercops EP 19
+http://seu-servidor/stream/53689
+#EXTINF:-1, Cybercops EP 20
+http://seu-servidor/stream/53690
+#EXTINF:-1, Cybercops EP 21
+http://seu-servidor/stream/53691
+#EXTINF:-1, Cybercops EP 22
+http://seu-servidor/stream/53692
+#EXTINF:-1, Cybercops EP 23
+http://seu-servidor/stream/53693
+#EXTINF:-1, Cybercops EP 24
+http://seu-servidor/stream/53694
+#EXTINF:-1, Cybercops EP 25
+http://seu-servidor/stream/53695
+#EXTINF:-1, Cybercops EP 26
+http://seu-servidor/stream/53696
+#EXTINF:-1, Cybercops EP 27
+http://seu-servidor/stream/53697
+#EXTINF:-1, Cybercops EP 28
+http://seu-servidor/stream/53698
+#EXTINF:-1, Cybercops EP 29
+http://seu-servidor/stream/53699
+#EXTINF:-1, Cybercops EP 30
+http://seu-servidor/stream/53700
+#EXTINF:-1, Cybercops EP 31
+http://seu-servidor/stream/53701
+#EXTINF:-1, Cybercops EP 32
+http://seu-servidor/stream/53702
+#EXTINF:-1, Cybercops EP 33
+http://seu-servidor/stream/53703
+#EXTINF:-1, Cybercops EP 34
+http://seu-servidor/stream/53704
 
-########## Machineman ##########
+############ Machineman ############
 #EXTINF:-1, Machineman EP 01
-https://animesdigital.org/video/a/51477/
+http://seu-servidor/stream/51477
 #EXTINF:-1, Machineman EP 02
-https://animesdigital.org/video/a/51476/
+http://seu-servidor/stream/51476
 #EXTINF:-1, Machineman EP 03
-https://animesdigital.org/video/a/51475/
+http://seu-servidor/stream/51475
 #EXTINF:-1, Machineman EP 04
-https://animesdigital.org/video/a/51474/
+http://seu-servidor/stream/51474
 #EXTINF:-1, Machineman EP 05
-https://animesdigital.org/video/a/51473/
+http://seu-servidor/stream/51473
 #EXTINF:-1, Machineman EP 06
-https://animesdigital.org/video/a/51472/
+http://seu-servidor/stream/51472
 #EXTINF:-1, Machineman EP 07
-https://animesdigital.org/video/a/51471/
+http://seu-servidor/stream/51471
 #EXTINF:-1, Machineman EP 08
-https://animesdigital.org/video/a/51470/
+http://seu-servidor/stream/51470
 #EXTINF:-1, Machineman EP 09
-https://animesdigital.org/video/a/51469/
+http://seu-servidor/stream/51469
 #EXTINF:-1, Machineman EP 10
-https://animesdigital.org/video/a/51468/
+http://seu-servidor/stream/51468
+#EXTINF:-1, Machineman EP 11
+http://seu-servidor/stream/51467
+#EXTINF:-1, Machineman EP 12
+http://seu-servidor/stream/51466
+#EXTINF:-1, Machineman EP 13
+http://seu-servidor/stream/51465
+#EXTINF:-1, Machineman EP 14
+http://seu-servidor/stream/51464
+#EXTINF:-1, Machineman EP 15
+http://seu-servidor/stream/51463
+#EXTINF:-1, Machineman EP 16
+http://seu-servidor/stream/51462
+#EXTINF:-1, Machineman EP 17
+http://seu-servidor/stream/51461
+#EXTINF:-1, Machineman EP 18
+http://seu-servidor/stream/51460
+#EXTINF:-1, Machineman EP 19
+http://seu-servidor/stream/51459
+#EXTINF:-1, Machineman EP 20
+http://seu-servidor/stream/51458
+#EXTINF:-1, Machineman EP 21
+http://seu-servidor/stream/51457
+#EXTINF:-1, Machineman EP 22
+http://seu-servidor/stream/51456
+#EXTINF:-1, Machineman EP 23
+http://seu-servidor/stream/51455
+#EXTINF:-1, Machineman EP 24
+http://seu-servidor/stream/51454
+#EXTINF:-1, Machineman EP 25
+http://seu-servidor/stream/51453
+#EXTINF:-1, Machineman EP 26
+http://seu-servidor/stream/51452
+#EXTINF:-1, Machineman EP 27
+http://seu-servidor/stream/51451
+#EXTINF:-1, Machineman EP 28
+http://seu-servidor/stream/51450
+#EXTINF:-1, Machineman EP 29
+http://seu-servidor/stream/51449
+#EXTINF:-1, Machineman EP 30
+http://seu-servidor/stream/51448
+#EXTINF:-1, Machineman EP 31
+http://seu-servidor/stream/51447
+#EXTINF:-1, Machineman EP 32
+http://seu-servidor/stream/51446
+#EXTINF:-1, Machineman EP 33
+http://seu-servidor/stream/51445
+#EXTINF:-1, Machineman EP 34
+http://seu-servidor/stream/51444
+#EXTINF:-1, Machineman EP 35
+http://seu-servidor/stream/51443
 
-########## Lionman ##########
+############ Lionman ############
 #EXTINF:-1, Lionman EP 01
-https://animesdigital.org/video/a/51439/
+http://seu-servidor/stream/51439
 #EXTINF:-1, Lionman EP 02
-https://animesdigital.org/video/a/51438/
+http://seu-servidor/stream/51438
 #EXTINF:-1, Lionman EP 03
-https://animesdigital.org/video/a/51437/
+http://seu-servidor/stream/51437
 #EXTINF:-1, Lionman EP 04
-https://animesdigital.org/video/a/51436/
+http://seu-servidor/stream/51436
 #EXTINF:-1, Lionman EP 05
-https://animesdigital.org/video/a/51435/
-
-########## Gundam ##########
-#EXTINF:-1, Gundam EP 01
-https://animesdigital.org/video/a/12532/
-#EXTINF:-1, Gundam EP 02
-https://animesdigital.org/video/a/12531/
-#EXTINF:-1, Gundam EP 03
-https://animesdigital.org/video/a/12530/
-
-########## Mobile Suit Gundam ##########
-#EXTINF:-1, Mobile Suit Gundam EP 01
-https://animesdigital.org/video/a/25859/
-#EXTINF:-1, Mobile Suit Gundam EP 02
-https://animesdigital.org/video/a/25858/
-
-########## Caverna do Dragão ##########
-#EXTINF:-1, Caverna do Dragão EP 01
-https://animesdigital.org/video/a/29629/
-#EXTINF:-1, Caverna do Dragão EP 02
-https://animesdigital.org/video/a/29628/
-
-########## Circuito de Fogo ##########
-#EXTINF:-1, Circuito de Fogo EP 01
-https://animesdigital.org/video/a/44555/
-#EXTINF:-1, Circuito de Fogo EP 02
-https://animesdigital.org/video/a/44554/
-
-########## Homem Pássaro ##########
-#EXTINF:-1, Homem Pássaro EP 01
-https://animesdigital.org/video/a/46134/
-#EXTINF:-1, Homem Pássaro EP 02
-https://animesdigital.org/video/a/46133/
-
-########## Super Amigos ##########
-#EXTINF:-1, Super Amigos EP 01
-https://animesdigital.org/video/a/47219/
-#EXTINF:-1, Super Amigos EP 02
-https://animesdigital.org/video/a/47218/
-
-########## Space Ghost ##########
-#EXTINF:-1, Space Ghost EP 01
-https://animesdigital.org/video/a/49282/
-#EXTINF:-1, Space Ghost EP 02
-https://animesdigital.org/video/a/49281/
-#EXTINF:-1, Space Ghost EP 03
-https://animesdigital.org/video/a/49280/
-#EXTINF:-1, Space Ghost EP 04
-https://animesdigital.org/video/a/49279/
-#EXTINF:-1, Space Ghost EP 05
-https://animesdigital.org/video/a/49278/
+http://seu-servidor/stream/51435
+#EXTINF:-1, Lionman EP 06
+http://seu-servidor/stream/51434
+#EXTINF:-1, Lionman EP 07
+http://seu-servidor/stream/51433
+#EXTINF:-1, Lionman EP 08
+http://seu-servidor/stream/51432
+#EXTINF:-1, Lionman EP 09
+http://seu-servidor/stream/51431
+#EXTINF:-1, Lionman EP 10
+http://seu-servidor/stream/51430
+#EXTINF:-1, Lionman EP 11
+http://seu-servidor/stream/51429
+#EXTINF:-1, Lionman EP 12
+http://seu-servidor/stream/51428
+#EXTINF:-1, Lionman EP 13
+http://seu-servidor/stream/51427
+#EXTINF:-1, Lionman EP 14
+http://seu-servidor/stream/51426
+#EXTINF:-1, Lionman EP 15
+http://seu-servidor/stream/51425
+#EXTINF:-1, Lionman EP 16
+http://seu-servidor/stream/51424
+#EXTINF:-1, Lionman EP 17
+http://seu-servidor/stream/51423
+#EXTINF:-1, Lionman EP 18
+http://seu-servidor/stream/51422
+#EXTINF:-1, Lionman EP 19
+http://seu-servidor/stream/51421
+#EXTINF:-1, Lionman EP 20
+http://seu-servidor/stream/51420
+#EXTINF:-1, Lionman EP 21
+http://seu-servidor/stream/51419
+#EXTINF:-1, Lionman EP 22
+http://seu-servidor/stream/51418
+#EXTINF:-1, Lionman EP 23
+http://seu-servidor/stream/51417
+#EXTINF:-1, Lionman EP 24
+http://seu-servidor/stream/51416
+#EXTINF:-1, Lionman EP 25
+http://seu-servidor/stream/51415
