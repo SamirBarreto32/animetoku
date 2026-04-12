@@ -1,0 +1,25 @@
+﻿#EXTM3U
+#EXTIMG:https://cdn.regional-radios.app-mind.com/static/assets/images/flags/br.png
+
+# --- SUDESTE ---
+#EXTINF:-1 group-title="Sudeste" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/264/radio-antena-1-fm.2602cfac.jpg",Antena 1 (São Paulo)
+https://playerservices.streamtheworld.com/api/livestream-redirect/ANTENA1_SP.m3u8
+
+#EXTINF:-1 group-title="Sudeste" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jb-fm.png",JB FM (Rio de Janeiro)
+https://26533.live.streamtheworld.com/JBFM_SC
+
+# --- SUL ---
+#EXTINF:-1 group-title="Sul" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/atlantida.png",Atlântida FM (Porto Alegre)
+https://25533.live.streamtheworld.com/ATLANTIDAPOA_SC
+
+# --- NORDESTE ---
+#EXTINF:-1 group-title="Nordeste" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jangadeiro.png",Jangadeiro FM (Fortaleza)
+https://stream.pioneer.com.br/radio/8010/radio.mp3
+
+# --- CENTRO-OESTE ---
+#EXTINF:-1 group-title="Centro-Oeste" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/executiva.png",Executiva FM (Goiânia)
+https://8130.brasilstream.com.br/stream
+
+# --- NORTE ---
+#EXTINF:-1 group-title="Norte" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/liberal.png",Liberal FM (Belém)
+https://7010.brasilstream.com.br/stream
