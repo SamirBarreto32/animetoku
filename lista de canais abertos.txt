@@ -1,0 +1,101 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="01" tvg-name="TV BRASIL (OFICIAL)",TV BRASIL (OFICIAL)
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="02" tvg-name="TV CLÁSSICOS (NOSTALGIA)",TV CLÁSSICOS (NOSTALGIA)
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-id="03" tvg-name="REDE TV (LIVE)",REDE TV (LIVE)
+https://geo.dailymotion.com/player/xgrus.html?video=kYe5OYErhldJ75Azib2
+#EXTINF:-1 tvg-id="04" tvg-name="RETRO CARTOON (CLASSIC)",RETRO CARTOON (CLASSIC)
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="05" tvg-name="REDE BRASIL (RBTV)",REDE BRASIL (RBTV)
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-id="06" tvg-name="TV ARATU (SBT BA)",TV ARATU (SBT BA)
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-id="07" tvg-name="TV CULTURA",TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="08" tvg-name="SONY ONE CINEMA",SONY ONE CINEMA
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="09" tvg-name="WEB TV XTREME (CAMAQUÃ)",WEB TV XTREME (CAMAQUÃ)
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
+https://www.youtube.com/embed/wVd836vHl6s?autoplay=true
+#EXTINF:-1 tvg-id="11" tvg-name="ANIME TV",ANIME TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="REDE NGT",REDE NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="TV JOVEM PAN NEWS",TV JOVEM PAN NEWS
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="SESC TV (AO VIVO)",SESC TV (AO VIVO)
+https://beyond.spalla.io/player/?live=0195ede1-c23c-7078-8f2a-25f982a9fc91&info=0
+#EXTINF:-1 tvg-id="15" tvg-name="CANAL 21 (SP)",CANAL 21 (SP)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="UNIVESP TV (EDUCAÇÃO)",UNIVESP TV (EDUCAÇÃO)
+https://www.youtube.com/embed?list=UUBL2tfrwhEhX52Dze_aO3zA&playnext=1&index=1
+#EXTINF:-1 tvg-id="17" tvg-name="TV SOTEROPOLITANA",TV SOTEROPOLITANA
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="CANAL FUTURA",CANAL FUTURA
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="TV CARIOCA INTERNACIONAL",TV CARIOCA INTERNACIONAL
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CANAL GOV (OFICIAL)",CANAL GOV (OFICIAL)
+https://aovivo.ebc.com.br/embed-canalgov.html?autoplay=1
+#EXTINF:-1 tvg-id="21" tvg-name="TV SENADO (FEDERAL)",TV SENADO (FEDERAL)
+https://www.youtube.com/embed?list=UULgti7NuK0RuW9wty-fxPjQ&playnext=1&index=1
+#EXTINF:-1 tvg-id="22" tvg-name="ISTV (LITORAL SP)",ISTV (LITORAL SP)
+https://www.istv.com.br/aovivo/
+#EXTINF:-1 tvg-id="23" tvg-name="TV SÉCULO 21",TV SÉCULO 21
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="TV MANCHETE",TV MANCHETE
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="TV ONE (PA)",TV ONE (PA)
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="TV CÂMARA (FEDERAL)",TV CÂMARA (FEDERAL)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="BAND BAHIA (AO VIVO)",BAND BAHIA (AO VIVO)
+https://beyond.spalla.io/player/?live=0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6
+#EXTINF:-1 tvg-id="28" tvg-name="TV J.SID (CANDEIAS BA)",TV J.SID (CANDEIAS BA)
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="RECORD NEWS",RECORD NEWS
+https://www.youtube.com/embed/zHBeN807YV4?autoplay=true
+#EXTINF:-1 tvg-id="30" tvg-name="REDE FAMÍLIA (RFTV)",REDE FAMÍLIA (RFTV)
+https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="CANAL DO BOI (AGRO)",CANAL DO BOI (AGRO)
+https://equipea.com.br/player/?canal=canaldoboi
+#EXTINF:-1 tvg-id="32" tvg-name="AMAZON SAT (AM)",AMAZON SAT (AM)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="MULTI CANAIS (AO VIVO)",MULTI CANAIS (AO VIVO)
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="CAZÉ TV (AO VIVO)",CAZÉ TV (AO VIVO)
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="SIC PORTUGAL (AO VIVO)",SIC PORTUGAL (AO VIVO)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="NHK WORLD PREMIUM",NHK WORLD PREMIUM
+https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="COMBATV (CONTATO)",COMBATV (CONTATO)
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="NBC SPORTS (USA)",NBC SPORTS (USA)
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="N SPORTS (LIVE)",N SPORTS (LIVE)
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="CHARLIE CHAPLIN (TV)",CHARLIE CHAPLIN (TV)
+https://www.youtube.com/embed?max-results=1&controls=0&showinfo=0&rel=0&listType=user_uploads&list=TheChaplinFilms
+#EXTINF:-1 tvg-id="42" tvg-name="FIFA PLUS (PORTUGUÊS)",FIFA PLUS (PORTUGUÊS)
+https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="VEVO '80s (MUSIC)",VEVO '80s (MUSIC)
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="CANAL EDUCAÇÃO (MEC)",CANAL EDUCAÇÃO (MEC)
+https://aovivo.ebc.com.br/embed-canaleducacao.html
+#EXTINF:-1 tvg-id="45" tvg-name="POWER RANGERS (KIDS)",POWER RANGERS (KIDS)
+https://www.youtube.com/embed/live_stream?channel=UCE3_4WG166NcyQPcRtgGWkQ&autoplay=1
+#EXTINF:-1 tvg-id="46" tvg-name="REDE VIDA (AO VIVO)",REDE VIDA (AO VIVO)
+https://644398c.ha.azioncdn.net/primary/redevida_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="TV DIÁRIO MACAPÁ",TV DIÁRIO MACAPÁ
+https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="VINTAGE TV",VINTAGE TV
+https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="MR. BEAN LIVE ACTION",MR. BEAN LIVE ACTION
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/720p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="TV METRÓPOLE (CE)",TV METRÓPOLE (CE)
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="NASA TV (AO VIVO)",NASA TV (AO VIVO)
+https://www.youtube.com/embed/sWasdbDVNvc?autoplay=true
